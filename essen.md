@@ -1,3 +1,4 @@
+<style> body{background-color: #fff3e0; } </style>
 # Portugiesisches Essen
 
 Portugal ist nicht nur für seine schönen Strände und historischen Städte bekannt, sondern auch für seine leckere Küche.
