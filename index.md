@@ -1,6 +1,10 @@
 # Willkommen in Lissabon – Die weiße Stadt am Tejo
 
+<<<<<<< HEAD
 ![Panorama von Lissabon bei Sonnenuntergang](https://sumfinity.com/wp-content/uploads/2019/03/Sunset-View-Lisbon-Portugal-evening.jpg)
+=======
+![Panorama von Lissabon bei Sonnenuntergang](https://fhmedien.de/lissabon-panorama-city-skyline-am-tejo-mit-ponte-25-de-abril-zum-sonnenuntergang/#gallery)
+>>>>>>> b71674ef9bcaeeeee44982ea64adc26db46d5ea9
 *Blick über die roten Dächer der Altstadt bis hin zum Fluss Tejo.*
 
 Entdecke die portugiesische Hauptstadt mit ihren sieben Hügeln, historischen Straßenbahnen und einer einzigartigen Mischung aus Tradition und Moderne. Lissabon verzaubert Besucher mit warmem Licht, herzlicher Gastfreundschaft und atemberaubenden Aussichtspunkten.
@@ -10,17 +14,17 @@ Entdecke die portugiesische Hauptstadt mit ihren sieben Hügeln, historischen St
 ## Die Highlights der Stadt
 
 ### 1. Die historische Straßenbahnlinie 28
-![Gelbe Straßenbahn Linie 28 in einer engen Gasse](https://i0.wp.com/www.myhappyplaces.de/wp-content/uploads/2017/06/lissabon3.jpg?ssl=1)
+![Gelbe Straßenbahn Linie 28 in einer engen Gasse](https://www.alamy.de/6-marz-2018-lissabon-portugal-die-beruhmten-28-strassenbahn-auf-den-weg-in-die-innenstadt-image185193213.html?imageid=660397AC-6000-4905-A403-C7B4DCC070E7&pn=1&searchId=4db20e733834a076b704f7e6e2cf3163&searchtype=0)
 
 Eine Fahrt mit der legendären **Elétrico 28** ist ein absolutes Muss. Die nostalgische gelbe Bahn rattert durch die engen, steilen Gassen von Alfama und Baixa und bringt dich vorbei an den wichtigsten Sehenswürdigkeiten der Stadt.
 
 ### 2. Das Viertel Belém und seine Seefahrergeschichte
-![Torre de Belém am Ufer des Tejo](https://unsplash.com)
+![Torre de Belém am Ufer des Tejo](https://lisboasecreta.co/de/belem-turm-fuhrung/)
 
 In Belém spürst du das Zeitalter der großen Entdecker. Besuche den berühmten **Torre de Belém**, bewundere das imposante Hieronymus-Kloster und probiere unbedingt die originalen *Pastéis de Belém* – warme Blätterteigtörtchen mit Vanillecreme.
 
 ### 3. Die Altstadt Alfama & Fado-Musik
-![Bunte Häuser und Gassen in Alfama](https://unsplash.com)
+![Bunte Häuser und Gassen in Alfama](https://de.dreamstime.com/fadoband-die-traditionelle-portugiesische-musik-alfama-lis-durchf%C3%BChrt-image125431192)
 
 Alfama ist das älteste Viertel Lissabons. Verliere dich in dem Labyrinth aus verwinkelten Gassen, bunten Kachelfassaden (*Azulejos*) und kleinen Cafés. Am Abend erklingt hier aus vielen Lokalen der traditionelle, melancholische **Fado-Gesang**.
 
