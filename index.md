@@ -1,6 +1,6 @@
 # Willkommen in Lissabon – Die weiße Stadt am Tejo
 
-![Panorama von Lissabon bei Sonnenuntergang](https://unsplash.com)
+![Panorama von Lissabon bei Sonnenuntergang](https://sumfinity.com/wp-content/uploads/2019/03/Sunset-View-Lisbon-Portugal-evening.jpg)
 *Blick über die roten Dächer der Altstadt bis hin zum Fluss Tejo.*
 
 Entdecke die portugiesische Hauptstadt mit ihren sieben Hügeln, historischen Straßenbahnen und einer einzigartigen Mischung aus Tradition und Moderne. Lissabon verzaubert Besucher mit warmem Licht, herzlicher Gastfreundschaft und atemberaubenden Aussichtspunkten.
@@ -10,7 +10,7 @@ Entdecke die portugiesische Hauptstadt mit ihren sieben Hügeln, historischen St
 ## Die Highlights der Stadt
 
 ### 1. Die historische Straßenbahnlinie 28
-![Gelbe Straßenbahn Linie 28 in einer engen Gasse](https://unsplash.com)
+![Gelbe Straßenbahn Linie 28 in einer engen Gasse](https://i0.wp.com/www.myhappyplaces.de/wp-content/uploads/2017/06/lissabon3.jpg?ssl=1)
 
 Eine Fahrt mit der legendären **Elétrico 28** ist ein absolutes Muss. Die nostalgische gelbe Bahn rattert durch die engen, steilen Gassen von Alfama und Baixa und bringt dich vorbei an den wichtigsten Sehenswürdigkeiten der Stadt.
 
